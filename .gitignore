@@ -1,0 +1,6 @@
+.venv
+
+build
+app.spec
+DissText_App.spec
+playground.py
